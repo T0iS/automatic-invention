@@ -1,0 +1,10 @@
+C:\Users\Tom\source\repos\PJII_projekt\PJII_projekt\bin\Debug\PJII_projekt.exe.config
+C:\Users\Tom\source\repos\PJII_projekt\PJII_projekt\bin\Debug\PJII_projekt.exe
+C:\Users\Tom\source\repos\PJII_projekt\PJII_projekt\bin\Debug\PJII_projekt.pdb
+C:\Users\Tom\source\repos\PJII_projekt\PJII_projekt\obj\Debug\PJII_projekt.csprojAssemblyReference.cache
+C:\Users\Tom\source\repos\PJII_projekt\PJII_projekt\obj\Debug\PJII_projekt.Form1.resources
+C:\Users\Tom\source\repos\PJII_projekt\PJII_projekt\obj\Debug\PJII_projekt.Properties.Resources.resources
+C:\Users\Tom\source\repos\PJII_projekt\PJII_projekt\obj\Debug\PJII_projekt.csproj.GenerateResource.cache
+C:\Users\Tom\source\repos\PJII_projekt\PJII_projekt\obj\Debug\PJII_projekt.csproj.CoreCompileInputs.cache
+C:\Users\Tom\source\repos\PJII_projekt\PJII_projekt\obj\Debug\PJII_projekt.exe
+C:\Users\Tom\source\repos\PJII_projekt\PJII_projekt\obj\Debug\PJII_projekt.pdb
